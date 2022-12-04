@@ -5,8 +5,8 @@ from app.app_test import app
 import sys
 sys.path.append('../')
 sys.path.append('../../')
-from final_work.module.movie import Movie
-from final_work.module.movie_facade import MovieFacade
+from API_project.module.movie import Movie
+from API_project.module.movie_facade import MovieFacade
 
 pg = 'Movie search API'
 
