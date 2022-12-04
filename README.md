@@ -29,7 +29,7 @@ pip install requests
 
 ## Run the application
 
-In order to run the application, you first need to have a key to access the IMDb API. Just create an account : https://imdb-api.com/ and then create a `.env` file with the following line `API_KEY="YOUR_API_KEY`.
+In order to run the application, you first need to have a key to access the IMDb API. Just create an account : https://imdb-api.com/ and then create a `.env` file with the following line : `API_KEY="YOUR_API_KEY"`.
 The `.gitignore` file specified that you don't want to push `.env` files to GitHub so that your key isn't public.
 
 You are now ready to launch the app ! 
