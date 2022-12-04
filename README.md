@@ -39,3 +39,5 @@ Just run :
 ```bash
 python dash-app/launch_app.py
 ```
+
+A local URL should be printed on your terminal, copy paste it into your browser and enjoy !
