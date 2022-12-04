@@ -34,6 +34,8 @@ The `.gitignore` file specified that you don't want to push `.env` files to GitH
 
 You are now ready to launch the app ! 
 
+You may have some issues using Visual Studio Code to run this app, so we recommand to use an other IDE such as Pycharm or Spyder.
+
 Just run :
 
 ```bash
